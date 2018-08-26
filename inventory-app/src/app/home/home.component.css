@@ -1,0 +1,12 @@
+.header {
+	float: left;
+}
+
+.add-button {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.action-button {
+	margin: 2px;
+}
