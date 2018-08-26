@@ -3,7 +3,7 @@
 
 This is just a sample application for demonstration purposes or a starting point on how to implement the technologies stated below.
 
-Pre-requisites:
+Prerequisites:
 <ul>
   <li>Make sure a MongoDB instance is installed in the local machine so that the database service is running in localhost</li>
   <li>Or you can use a remote MongoDB instance but make sure to change the URL in the server.js file</li>
